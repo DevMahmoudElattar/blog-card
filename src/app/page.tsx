@@ -122,7 +122,7 @@ export default function Home() {
           website, defining structure, content, and presentation.</h2>
         <div className="flex w-fit h-[32px] flex-row justify-between items-center gap-3">
           <div className="w-8 h-8 rounded-[50%] object-contain overflow-hidden bg-red-400">
-            <Image width={32} height={32} className="h-full w-full" src="/assets/images/MyImg.jpeg" alt="test" />
+            <img className="h-full w-full" src="/assets/images/MyImg.jpeg" alt="test" />
           </div>
           <h6 className="font-medium text-sm  text-center text-black align-middle">Mahmoud Elattar</h6>
         </div>
